@@ -1,0 +1,15 @@
+Script started on 2018-12-25 22:59:11+01:00
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ cd /home/samba/chojeckip/pppd/lab_punktowane ; env "PYTHONIIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" python /home/samba/chojeckip/.vscode/extennsions/ms-python.python-2018.4.0/pythonFiles/PythonTools/visualstudio_py_launcherr_nodebug.py /home/samba/chojeckip/pppd/lab_punktowane 42383 34806ad9-833a-4524-88cd6-18ca4aa74f14 RedirectOutput,RedirectOutput /home/samba/chojeckip/pppd/lab_puunktowane/punktowane_laby.py [A[A[A[A[A[K
+[K
+[K
+[K
+[K
+[K[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho 3
+3
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ script --exit
+script: unrecognized option '--exit'
+Try 'script --help' for more information.
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ exit
+exit
+
+Script done on 2018-12-25 22:59:29+01:00

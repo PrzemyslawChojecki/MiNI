@@ -1,0 +1,9 @@
+file.txt
+lab_punktowane
+laby 02
+laby 4
+laby 5
+nie_moje
+PPPD pierwsze zajecia punktowane
+sort
+TEST.py

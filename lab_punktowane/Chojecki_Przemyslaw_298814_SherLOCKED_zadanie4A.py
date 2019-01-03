@@ -167,7 +167,7 @@ def gra(n=10, liczba=10, maxiter=25):
         y = int(x[1])       #przerobienie wspolrzednych z str na int
         x = int(x[0])
 
-        czy_trafil_na_mine = odkryj_pole(x, y, plansza, pola)   #funkcja odkryj pole zwraca True gdy gracz trafil na mine
+        czy_trafil_na_mine = odkryj_pole(x, y, plansza, pola)   #funkcja odkryj_pole zwraca True gdy gracz trafil na mine
         
         #przypadek konca gry
         if czy_trafil_na_mine:

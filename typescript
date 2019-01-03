@@ -1,0 +1,39 @@
+Script started on 2018-12-25 22:58:41+01:00
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ lol
+mini: lol: command not found
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ echo xD
+xD
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ exit[K[K[K[Kscript
+Script started, file is typescript
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ cd /home/samba/chojeckip/pppd/lab_punktowane ; env "PYTHONIIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" python /home/samba/chojeckip/.vscode/extennsions/ms-python.python-2018.4.0/pythonFiles/PythonTools/visualstudio_py_launcherr_nodebug.py /home/samba/chojeckip/pppd/lab_punktowane 42383 34806ad9-833a-4524-88cd6-18ca4aa74f14 RedirectOutput,RedirectOutput /home/samba/chojeckip/pppd/lab_puunktowane/punktowane_laby.py [A[A[A[A[A[K
+[K
+[K
+[K
+[K
+[K[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho 2
+2
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ script exit
+Script started, file is exit
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ cd /home/samba/chojeckip/pppd/lab_punktowane ; env "PYTHONIIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" python /home/samba/chojeckip/.vscode/extennsions/ms-python.python-2018.4.0/pythonFiles/PythonTools/visualstudio_py_launcherr_nodebug.py /home/samba/chojeckip/pppd/lab_punktowane 42383 34806ad9-833a-4524-88cd6-18ca4aa74f14 RedirectOutput,RedirectOutput /home/samba/chojeckip/pppd/lab_puunktowane/punktowane_laby.py [A[A[A[A[A[K
+[K
+[K
+[K
+[K
+[K[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho 3
+3
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ script --exit
+script: unrecognized option '--exit'
+Try 'script --help' for more information.
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ exit
+exit
+Script done, file is exit
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ ls
+ exit		 'laby 02'   nie_moje				 TEST.py
+ file.txt	 'laby 4'   'PPPD pierwsze zajecia punktowane'	 typescript
+ lab_punktowane  'laby 5'    sort
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ nano typescript 
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 3.1                       typescript                                 [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[m[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ nano exit 
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;32H(B[0;7m[ Read 15 lines ](B[m[H(B[0;7m  GNU nano 3.1                          exit                                    [1;79H(B[m[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[3d[39;49m(B[mScript started on 2018-12-25 22:59:11+01:00[4d^[]0;chojeckip@ssh:~/pppd^G[chojeckip@ssh pppd]$ cd /home/samba/chojeckip/pppd/$[5;1H^M^[[K[6d^M^[[K[7d^M^[[K[8d^M^[[K[9d^M^[[K^[[A^[[A^[[A^[[A^[[A^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^$[10;1H3[11d^[]0;chojeckip@ssh:~/pppd^G[chojeckip@ssh pppd]$ script --exit[12dscript: unrecognized option '--exit'[13dTry 'script --help' for more information.[14d^[]0;chojeckip@ssh:~/pppd^G[chojeckip@ssh pppd]$ exit[15dexit[17dScript done on 2018-12-25 22:59:29+01:00[3d[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ exit
+exit
+Script done, file is typescript
+]0;chojeckip@ssh:~/pppd[chojeckip@ssh pppd]$ scriptecho xD[1Pscript[Knano typescript 
